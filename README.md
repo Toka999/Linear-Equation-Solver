@@ -1,8 +1,3 @@
-A good README should act as a bridge between your code and the person trying to use it. Based on your `ConsoleApplication1.cpp` file, your project is a **Linear Equation Solver** that uses the **Gauss-Jordan Elimination** method.
-
-Here is a structured template you can copy and paste into your `README.md` file:
-
----
 
 # Linear Equation Solver (C++)
 
@@ -64,5 +59,3 @@ It then applies the following row operations to achieve Reduced Row Echelon Form
 * **Input Range**: Maximum system size is hardcoded to 100 equations.
 
 ---
-
-### Would you like me to help you add a "Partial Pivoting" feature to the code to prevent those "division by zero" errors?
